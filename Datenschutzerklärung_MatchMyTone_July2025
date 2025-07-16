@@ -1,0 +1,93 @@
+Datenschutzerklärung für die App "MatchMyTone"
+Stand: Juli 2025
+Verantwortlich: DI Denise Schindelböck
+Kontakt: denise.schindelboeck@gmail.com
+1. Einleitung
+Diese Datenschutzerklärung informiert dich darüber, welche personenbezogenen Daten durch die App "MatchMyTone" erhoben, gespeichert und verwendet werden. Der Schutz deiner Daten ist mir ein wichtiges Anliegen. Ich verarbeite personenbezogene Daten ausschließlich im Einklang mit der DSGVO (EU), dem CCPA/CPRA (USA/Kalifornien) sowie dem CalOPPA (Kalifornien).
+
+2. Verantwortliche Stelle
+DI Denise Schindelböck
+Einzelunternehmerin
+Carlbergergasse 105/4/58, 1230 Wien
+Wien, Österreich
+E-Mail: denise.schindelboeck@gmail.com
+
+3. Welche Daten werden erhoben?
+a) Bei Registrierung und Nutzung:
+E-Mail-Adresse
+Vorname
+Authentifizierung via:
+Apple Sign-In
+Google Sign-In
+Facebook Login
+b) Geräte- und Nutzungsdaten:
+Gerätetyp und Betriebssystem
+Nutzungsverhalten in der App (via Google Analytics & Firebase)
+Firebase Analytics verarbeitet pseudonymisierte Nutzungsdaten wie Bildschirmaufrufe, Sessiondauer und technische Geräteinformationen zur Verbesserung der Nutzerführung.
+Absturzberichte (Firebase Crashlytics)
+Firebase Crashlytics verarbeitet pseudonymisierte Nutzerdaten wie Stacktraces, technische Geräteinformationen zur Verbesserung der Nutzung und Performance.
+c) Kamera- und Fotozugriff:
+Zugriff erfolgt nur lokal auf dem Gerät
+Bilder werden nicht an Server (wie Firebase) gesendet
+d) Zahlungsdaten:
+Bei In-App-Käufen über Apple oder Google Store gelten die jeweiligen Datenschutzbestimmungen. Die App selbst speichert keine Zahlungsdaten.
+
+4. Zweck der Datenverarbeitung
+Zur Bereitstellung und Verbesserung der App
+Zur Analyse des Nutzungsverhaltens (u. a. zur Personalisierung von Werbung)
+Zur Fehleranalyse und Stabilitätsverbesserung
+Zur Verifizierung der E-Mail-Adresse
+Zur Verwaltung von Nutzerprofilen
+
+5. Rechtsgrundlagen
+GDPR (Art. 6 DSGVO):
+Einwilligung (Art. 6 Abs. 1 lit. a)
+Vertragserfüllung (Art. 6 Abs. 1 lit. b)
+Berechtigtes Interesse (Art. 6 Abs. 1 lit. f)
+CCPA/CPRA & CalOPPA:
+Information über Sammlung, Verwendung und Weitergabe von Daten
+Möglichkeit des „Opt-Out“ bei personalisierter Werbung
+
+6. Weitergabe an Dritte
+Die Daten werden nicht verkauft. Eine Weitergabe erfolgt ausschließlich an die folgenden Dienstleister zur technischen Bereitstellung:
+Firebase (Google LLC) – Authentifizierung, Datenbank, Analytics, Crashlytics
+AdMob (Google LLC) – Einblendung personalisierter Werbung
+Facebook Inc. – Login via Facebook
+Apple Inc. – Apple Sign-In
+Die Verarbeitung durch diese Anbieter erfolgt gemäß den jeweiligen Datenschutzrichtlinien.
+Einige der eingesetzten Dienstleister (z. B. Google LLC, Facebook Inc. und Apple Inc.) haben ihren Sitz in den USA. Die Übermittlung erfolgt auf Basis der EU-Standardvertragsklauseln (SCC) gemäß Art. 46 DSGVO.
+
+7. Speicherort und -dauer
+Die Daten werden in Rechenzentren innerhalb der Europäischen Union (Firebase EU-Region) gespeichert.
+Persönliche Daten werden so lange gespeichert, wie dein Profil besteht bzw. bis du dein Konto löschst.
+
+8. Rechte der Nutzer:innen
+Du hast folgende Rechte gemäß DSGVO:
+Auskunft über gespeicherte Daten
+Berichtigung unrichtiger Daten
+Löschung deiner Daten
+Einschränkung der Verarbeitung
+Widerspruch gegen Datenverarbeitung
+Datenübertragbarkeit (derzeit nicht verfügbar)
+Profil löschen:
+Du kannst dein Profil in der App unter Einstellungen → Profil löschen dauerhaft entfernen. Alle personenbezogenen Daten werden dabei vollständig gelöscht.“
+Anfragen:
+Bitte kontaktiere mich per E-Mail unter denise.schindelboeck@gmail.com.
+
+9. Tracking & Cookies
+Verwendete Technologien:
+Firebase Analytics
+Crashlytics
+AdMob zur Anzeige personalisierter Werbung
+Ein Tracking findet nur mit Einwilligung statt (Consent Management). Beim ersten Start der App wird dir ein Einwilligungsdialog angezeigt, in dem du der Verwendung von Analytics- und Werbe-Cookies zustimmen oder diese ablehnen kannst. Du kannst deine Einwilligung jederzeit im Profil unter Einstellungen -> Datenschutz ändern.
+Auf iOS erfolgt zusätzlich eine Tracking-Anfrage gemäß App Tracking Transparency Framework.
+
+10. Werbung und In-App-Käufe
+AdMob: Anzeigen werden in der App ausgespielt. Dabei kann es zur Verarbeitung pseudonymer IDs kommen (z. B. zur Häufigkeitsbegrenzung von Werbung).
+ In-App-Käufe: Die Abrechnung erfolgt über Apple und Google. Es gelten deren Richtlinien.
+
+11. Kinder und Minderjährige
+Es besteht keine Alterseinschränkung. Die App richtet sich nicht gezielt an Kinder unter 13 Jahren. Sollte eine Nutzung durch Kinder erfolgen, ist die vorherige Zustimmung der Eltern erforderlich. Eine aktive Erhebung von Daten Minderjähriger erfolgt nicht wissentlich.“
+
+12. Änderungen dieser Erklärung
+Diese Datenschutzerklärung kann jederzeit aktualisiert werden. Änderungen werden in der App oder per E-Mail mitgeteilt.
